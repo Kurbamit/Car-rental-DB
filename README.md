@@ -5,7 +5,7 @@ It includes JAVA written program for using the database.
 
 <details>
   <summary>ER Diagram</summary>
-  ![ER DIAGRAM](https://github.com/Kurbamit/Car-rental-DB/blob/main/ERDiagram.png)
+  ![Menu](https://github.com/Kurbamit/Vilnius_University_Software_Engineer/blob/main/Year%201/Object-oriented%20programming/Library/Library%20Menu.jpg)
 </details>
 
 <details>
